@@ -1,0 +1,61 @@
+.logo{
+    height: 180px;
+    text-align: center;   
+    margin: 1%;
+}
+
+body {
+    height: 100px;
+    background-color: rgba(217, 135, 233, 0.76);
+}
+ 
+.container{
+    height: 600px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#mensaje{
+    width: 600px;
+    height: 450px;
+    margin: 1% auto;
+    background: #FF4FB9; 
+    opacity: 0.7;   
+    border-radius: 3%;
+}
+
+.poema{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    background: #FF4FB9;
+    opacity: 0.8;
+    padding: 15px;
+    margin: 1% auto;
+    border-radius: 3%;
+    text-align: justify;
+}
+
+
+.style{
+     height: 150px;
+     width: 500px;
+     background-position: 1px;
+     background-color: rgb(248, 193, 225);
+     display: flex;
+     margin: 10px auto;
+}
+
+#key{
+    width: 50px;
+    margin-left: 5%;
+    margin-right: 9cm;
+    padding: 1%;
+}
+
+
+
+
+
+

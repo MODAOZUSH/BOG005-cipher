@@ -1,3 +1,15 @@
+# Proyecto 
+Descargue todos los programas necesarios.
+Probe node y npm para saber como se ejecuta la prueba.
+Busque una pagina que se parciera al boceto que tengo en mente acerca del proyecto.
+Investigue acerca del cifrado Cesar
+Me informe acerca de charCodeAt y loops
+Inicie con el HTML
+Se uso CSS para esconder y mostrar lo que queria en la pagina usando display block y none.
+Se crearon las funciones para llamr los eventos de bloc none y del boton seguir
+Se implemento CSS para darle estilo a la pagina
+
+
 # Cifrado César
 
 ## Índice

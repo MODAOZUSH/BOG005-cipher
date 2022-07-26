@@ -1,36 +1,37 @@
-.logo{
+.logo {
     height: 180px;
-    text-align: center;   
-    margin: 1%;
+    text-align: center;
+    margin: 2%;
+    font-family: cursive;
+    color: rgb(73, 73, 73);
 }
 
 body {
-    height: 100px;
     background-color: rgba(217, 135, 233, 0.76);
 }
- 
-.container{
-    height: 600px;
+
+.container {
+    height: 310px;
     display: flex;
     flex-direction: row-reverse;
 }
 
-#mensaje{
-    width: 600px;
+#mensaje {
+    width: 550px;
     height: 450px;
     margin: 1% auto;
-    background: #FF4FB9; 
-    opacity: 0.7;   
+    background: #fd70c5;
+    opacity: 0.9;
     border-radius: 3%;
 }
 
-.poema{
+.poema {
     width: 350px;
     height: 350px;
     display: flex;
     flex-wrap: wrap;
-    background: #FF4FB9;
-    opacity: 0.8;
+    background: #fd70c5;
+    opacity: 0.9;
     padding: 15px;
     margin: 1% auto;
     border-radius: 3%;
@@ -38,24 +39,29 @@ body {
 }
 
 
-.style{
-     height: 150px;
-     width: 500px;
-     background-position: 1px;
-     background-color: rgb(248, 193, 225);
-     display: flex;
-     margin: 10px auto;
+.style {
+    height: 150px;
+    width: 500px;
+    background-position: 1px;
+    background-color: rgb(248, 193, 225);
+    display: flex;
+    margin: 10px auto;
+    border-radius: 3%;
+    padding: 1%;
+
 }
 
-#key{
+#key {
     width: 50px;
     margin-left: 5%;
-    margin-right: 9cm;
+    margin-right: 7cm;
     padding: 1%;
+    border-color: blueviolet;
+    border-radius: 2%;
 }
 
-
-
-
-
-
+.btn {
+    width: 80px;
+    border-radius: 2%;
+    border-color: blueviolet;
+}

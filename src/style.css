@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgba(217, 135, 233, 0.76);
+    background-image: url(https://media.istockphoto.com/photos/heart-bokeh-background-picture-id508495114?k=20&m=508495114&s=612x612&w=0&h=XnZ__oUrA6gWtzYAHQUImNWZV61sCY-iG-zr38Ym7W4=);
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
     width: 550px;
     height: 450px;
     margin: 1% auto;
-    background: #fd70c5;
+    background: #f396ce;
     opacity: 0.9;
     border-radius: 3%;
 }
@@ -30,7 +30,7 @@ body {
     height: 350px;
     display: flex;
     flex-wrap: wrap;
-    background: #fd70c5;
+    background: #f396ce;
     opacity: 0.9;
     padding: 15px;
     margin: 1% auto;
